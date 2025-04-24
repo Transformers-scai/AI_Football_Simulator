@@ -15,12 +15,12 @@ Soccer Legends is an experimental framework that bridges game development and AI
 ### AI-Enhanced Gameplay
 - Intelligent player movement and positioning
 - Decision-making algorithms
-- Potential for LLM-integrated player dialogue
+- LLM-integrated player dialogue
 
 ### Technical Implementation
 - Unity 3D environment with C# scripting
 - Python-based AI logic
-- Jupyter Notebook interface for behavior development
+- Interface for behavior development
 - Modular architecture for easy expansion
 
 ## Technology Stack
