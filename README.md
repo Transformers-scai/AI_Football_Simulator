@@ -33,7 +33,7 @@ Soccer Legends is an experimental framework that bridges game development and AI
 | Development Tools  | Jupyter Notebooks                                                |
 | LLM                | Mixtral-8x7B-Instruct-v0.1 & Meta-Llama-3-70B-Instruct-Turbo     |
 
-## 📦 Repository Structure
+## Repository Structure
 AI_Football_Simulator/
 - YOLOAnnotator.ipynb 
 - AI_Soccer_Game_Analyzer.ipynb
