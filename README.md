@@ -1,8 +1,8 @@
-# ⚽ Soccer Legends: Intelligent Player Simulation
+# Transformers AI Football Simulator
 
-Welcome to **Soccer Legends** - a Unity-based soccer simulation enhanced with AI-powered player intelligence. This project combines traditional game development with modern artificial intelligence to create dynamic, realistic soccer behaviors.
+Welcome to **Transformers Team AI Football Simulator** - a Unity-based soccer simulation enhanced with AI-powered player intelligence. This project combines traditional game development with modern artificial intelligence to create dynamic, realistic soccer behaviors.
 
-## 📖 Overview
+## Overview
 
 Soccer Legends is an experimental framework that bridges game development and AI research. It features:
 
@@ -10,7 +10,7 @@ Soccer Legends is an experimental framework that bridges game development and AI
 - AI-driven player behaviors developed in Jupyter notebooks
 - Foundation for integrating language models into sports simulations
 
-## ✨ Key Features
+##  Key Features
 
 ### AI-Enhanced Gameplay
 - Intelligent player movement and positioning
@@ -23,7 +23,7 @@ Soccer Legends is an experimental framework that bridges game development and AI
 - Jupyter Notebook interface for behavior development
 - Modular architecture for easy expansion
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Component          | Technology Used                                                  |
 |--------------------|------------------------------------------------------------------|
@@ -41,7 +41,7 @@ soccer-legends/
   └── AgentDialogue.ipynb # Player interaction systems
 
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Unity 
