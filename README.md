@@ -34,12 +34,10 @@ Soccer Legends is an experimental framework that bridges game development and AI
 | LLM                | Mixtral-8x7B-Instruct-v0.1 & Meta-Llama-3-70B-Instruct-Turbo     |
 
 ## 📦 Repository Structure
-soccer-legends/
-├── Assets/ # Unity project assets
-├── Notebooks/ # AI behavior notebooks
-│ ├── PlayerBehavior.ipynb # Movement and decision logic
-  └── AgentDialogue.ipynb # Player interaction systems
-
+AI_Football_Simulator/
+- Assets/ # Unity project assets
+-- YOLOAnnotator.ipynb 
+-- AI_Soccer_Game_Analyzer.ipynb
 
 ## Getting Started
 
