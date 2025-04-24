@@ -35,9 +35,8 @@ Soccer Legends is an experimental framework that bridges game development and AI
 
 ## 📦 Repository Structure
 AI_Football_Simulator/
-- Assets/ # Unity project assets
--- YOLOAnnotator.ipynb 
--- AI_Soccer_Game_Analyzer.ipynb
+- YOLOAnnotator.ipynb 
+- AI_Soccer_Game_Analyzer.ipynb
 
 ## Getting Started
 
